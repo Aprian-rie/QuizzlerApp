@@ -3,7 +3,7 @@ class Question {
   bool questionAnswer;
 
   Question({
-    required this.questionTest,
-    required this.questionAnswer,
+     required this.questionTest,
+     required this.questionAnswer,
   });
 }
